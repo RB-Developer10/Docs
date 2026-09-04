@@ -1,0 +1,14 @@
+sotheby
+
+1. home page
+- slide (image, title, description, direct link)
+- Closing bid
+- upcoming auctions (by country)
+- all category
+- highlight of hong kong
+- new arrivals
+- feature stories
+- learn more about private sell
+- how to sell on sotheby
+- Stay informed
+- footer
