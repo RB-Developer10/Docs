@@ -143,11 +143,17 @@ Any data modification during the event lives will be notify to `Bidders`.
 
 A `Bidder` able to place bids on multiple items on the events but the amount must be more than minimum requirement.
 
+---
+
 `Bidder` still able to place a bid even the amount is lower than the highest price.
+
+---
 
 ### Cancel Bids
 
 A `Bidder` able to cancel bids on any items during the event lives.
+
+---
 
 ### Notification
 
