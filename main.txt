@@ -1,0 +1,81 @@
+- db analyze
+
++ role (user, event-owner, admin)
+- name
+
++ user
+- first name
+- last name
+- email
+- email verified
+- password hash
+- profile image
+- role
+
++ session
+- user
+- token
+- device info
+- create at
+- expire at
+
++ event
+- title
+- summary
+- description
+- start date
+- end date
+- address
+- owner
+
++ contributor
+- first name
+- last name
+- description
+- social media
+- email
+- profile image
+- position
+- event
+
++ contributor position
+- title
+- event
+- owner
+
++ item
+- title
+- summary
+- description
+- event
+- contributor
+- date
+- images
+- starting price
+
++ bidder request
+- bidder
+- event
+- status (pending, approve, reject)
+- request date
+- resolved date
+
++ bidder
+- event
+- user
+- approver
+- remove at
+ 
++ bidding
+- item
+- bidder
+- price
+- isCancelled
+
++ notification
+- user
+- type (outbid, highest bid, winner)
+- event
+- item
+- message
+- isRead
