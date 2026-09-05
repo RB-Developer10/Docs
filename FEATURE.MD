@@ -8,7 +8,7 @@
 - [2. User Management](#2-user-management)
 - [3. Event Management](#3-event-management)
 - [4. Bidder Management](#4-bidder-management)
-- [4. Bidding Management](#5-bidding-management)
+- [5. Bidding Management](#5-bidding-management)
 
 ## 1. Authentication & Authorization
 
